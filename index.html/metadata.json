@@ -1,0 +1,6 @@
+{
+  "name": "JANGRA NIOS SERVICES - Online Admission & Student Portal",
+  "description": "Official portal for JANGRA NIOS SERVICES providing Class 10th and 12th NIOS admission assistance, examination guidance, student registration, document verification, and learning subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
